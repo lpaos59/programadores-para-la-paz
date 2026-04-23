@@ -1,0 +1,28 @@
+TAREA: Cómo compartir información confiable en internet.
+
+INICIO
+   Buscar la información en internet
+
+   ¿La información tiene fuente que se pueda identificar?
+   SI -> CONTINUAR
+   NO -> NO COMPARTIR y TERMINAR
+   
+   ¿La fuente es confiable? (ejemplo: autor reconocido, experiencia en el tema, fecha, ¿dónde fue publicado?, ¿fue generada por IA?)
+   SI -> CONTINUAR
+   NO -> buscar otra fuente (si la tiene) y REGRESAR al paso anterior
+
+   ¿La información es actual?
+   SI -> CONTINUAR
+   NO -> NO COMPARTIR y TERMINAR
+
+   ¿Se confirmó que la información no sea falsa o engañosa?
+   SI -> CONTINUAR
+   NO -> NO COMPARTIR Y TERMINAR
+
+   ¿El contenido tiene un lenguaje profesional y exalta una opinión desde el respeto?
+   SI -> CONTINUAR
+   NO -> NO COMPARTIR y TERMINAR
+
+   Compartir la información citando la fuente original de manera correcta. 
+
+FIN
