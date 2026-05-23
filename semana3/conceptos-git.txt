@@ -1,0 +1,14 @@
+repositorio: 
+es un tipo de biblioteca o espacio de almacenamiento de elementos que hacen parte de un proyecto de git, como códigos, archivos, el historial de versiones y los cambios realizados por el 
+usuario o diferentes usuarios, como una forma de seguridad adicional. Los repositorios permiten mantener la organización y el registro de las actividades realizadas, de una forma accesible 
+y colaborativa. 
+
+commit:
+un coomit es una captura de lo que está sucediendo y los cambios hechos en algun proyecto de código, permitiendo grabar y guardar en el momento que quieras la evolución de los proyectos, y es
+muy importante cuando son trabajos colaborativos. El commit, facilita que se conozcan que se hizo, cuándo y quién realizó modificaciones al proyecto conjunto, permitiendo tener organización y
+verificación de las acciones. 
+
+push:
+esta función facilita la transferencia de archivos de un repositorio local a otro remoto, en este caso utilizando este comando puedo pasar mis archivos del repositorio local (ejemplo: computador o celular)
+a un repositorio conjunto o remoto (ej: git hub). Con este comando, puedo realizar cambios, crear archivos y publicar mis proyectos conjuntos que hice en mi repositorio local y personal, hacia
+un repositorio colaborativo.
