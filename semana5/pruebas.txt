@@ -1,0 +1,7 @@
+a través del comando node server.js, se puede ejecutar las rutas y ver su contenido: 
+
+en http://localhost:3000 se puede leer en el navegador web: "servidor activo"
+
+en http://localhost:3000/saludo se puede leer en el navegador web: "Hola comunidad" 
+
+en http://localhost:3000/mensaje/juan se puede leer en el navegador el mensaje para Juan, que dice: "Hola Juan"

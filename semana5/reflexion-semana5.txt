@@ -1,0 +1,9 @@
+Las API actúan como puntos de conexión y puentes tecnológicos entre sistemas, plataformas, aplicaciones, etc, permitiendo una comunicación directa y recibir información de ambas partes. 
+En este sentido en una comunidad, esta interfaz permitiría recolectar información más eficientemente y de forma automática, de varias fuentes y almacenarla en un sólo lugar, 
+permitiendo manetener el orden, flujo de trabajo y la estructura de un sistema o programa comunitario y/o colaborativo. Esto hace a su vez, que se mantenga el orden, no sólo para 
+los programadorss, pero también para los usuarios, para mantener informadas a las personas, optimizando las decisiones y promoviendo respuestas más eficientes y colectivas. 
+Además, de facilitar la verificación y el constante monitoreo de las herramientas, las API, permiten activar mecanismos de respuestas automatizadas, muy importantes en plataformas que 
+son usadas por usuarios o una comunidad, como por ejemplo una plataforma bancaria, donde las respuestas automáticas, como las notificaciones directas al correo o al celular, permiten 
+mantener la seguridad y tranquilidad del usuario, y evitar malentendidos, con los admisnitradores como con los usuarios. Por último, otra ventaja  para las comunidades es la posibilidad 
+de utilizar o interconectar nuevas herramientas tecnológicas, a las ya existentes, para hacer crecer el proyecto, crear nuevas herramientas, o hasta aceptar más usuarios en la plataforma, 
+permitiendo que los proyectos digitales puedan crecer y sean adaptables a las necesidades del admisnitrador, programador o usuarios. 

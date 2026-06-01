@@ -1,0 +1,5 @@
+A través de Thunder Client, se pudo verificar lo que hacía la ruta. Utilizando el método HTML POST, recibió la información en la petición que le hicimos, luego responde a que el mensaje sea 
+igual a la petición que le hicimos. Por último, el método, confirma que el reporte ha sido recibido, mostrando un "Status 200 OK", mostrando el mensaje que se envió y su respuesta correcta 
+Teniendo esto como en ejemplo, se puede decir que el uso en una plataforma comunitaria, permitie que haya una comunicación entre los usuarios y admisnistradores de la aplicación, como 
+quejas, reclamos, problemas con las plataformas, y hasta mensajes para mejorar la comunicación. Este método, permite verificar la información, y así encontrar errores más facilmente. 
+
