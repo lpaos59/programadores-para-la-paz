@@ -1,8 +1,0 @@
-Cuando las comunidades pueden construir sus propias herramientas digitales, con tecnologías de acceso abierto y para todo público, las personas de diferentes contextos y situaciones, pueden 
-ser soberanos y utilizar de una forma sencilla, poco costosa y con muchos servicios este tipo de plataformas, permitiendo que puedan democratizar la tecnología, a la vez que pueden ellos mismos 
-resolver probĺemáticas en su comunidad, de primera mano con estas herramientas. Por otro lado, al hacer uso de herramientas de libre acceso, se permite que más personas tengan acceso a ese aprendizaje
-y a sus beneficios, como usuarios y como programadores, fomentando la accesibilidad, la solución a problemáticas y la independiencia y seguridad digital. Además, otras ventajas de utilizar plataformas 
-como node.js, es que al ser contruidas en comunidad, personas que no tengan mucho conocimiento en el tema de programación y creación de herramientas digitales, pueden hacer uso de "plantillas" o información
-ya catalogada, para así personalizar y ensamblar su plataforma personalizada, y respondiendo a sus necesidades y creando soluciones éspecíficas para su territorio. Por último, usando estfe tipo de plataformas
-libre acceso y comunitarias, abiertas para cualquier público, hace que la brecha de desinformación, acceso a la información, activismo social y la visibilización de problemáticas, en comunidades poco conectadas 
-y con poca atención, puedan ser escuchadas, apoyadas y así mismo, tener libertad para luchar por sus convicciones de una forma sencilla, económica, y con un gran impacto social y en el desarrollo comunitario. 
