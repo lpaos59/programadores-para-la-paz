@@ -1,0 +1,5 @@
+1. encriptar las contraseñas
+2. ingresar a las plataformas a través de dispositivos de confianza y seguros
+3. autentificar los ingresos con varios pasos, utilizando palabras claves, accesos por otros dispositivos, entre otras
+4. limitar el acceso de las personas a datos sensibles de otros usuarios
+5. actualizar la plataforma periódicamente 
