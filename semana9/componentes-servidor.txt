@@ -1,0 +1,14 @@
+Sistema operativo
+Es un sistema base en cada dispositivo que comunica el hardware con el software de algún dispositivo electrónico y que permiten que los programas digitales se usen y ejecuten. Sin este sistema, ningún dispositivo funciona correctamente. 
+
+Node.js
+Es una forma de ejecutar y traducir archivos que contienen código de javascript en el computador o servidor local, y no en línea. 
+
+Aplicación server.js
+Es el texto en javascript que será ejecutado con node.js, y permita obtener respuestas y dar peticiones a un servidor. 
+
+Puerto
+El puerto permite que el sistema operativo sepa donde debe enviar los datos que llegan, así que es un tipo de puerta de comunivación. 
+
+Logs
+Estos permiten informar el estado, actividad, ingresos y cambios de una aplicación, a través del registro de tiempo, acceso y la actividad de un usuario. 

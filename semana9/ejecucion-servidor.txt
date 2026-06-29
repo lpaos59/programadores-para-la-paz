@@ -1,0 +1,12 @@
+Qué ocurre cuando ejecutas node server.js.
+se está comunicando con el servidor donde se ejecutan el javascript que está dentro de server.js
+Así, se está pidiendo la información que tiene. 
+
+Qué mensaje aparece en la terminal.
+servidor ejecutándose en puerto 3000
+
+Qué sucede cuando visitas la ruta /estado.
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
